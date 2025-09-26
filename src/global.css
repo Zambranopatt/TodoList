@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.btns {
+  @apply tracking-wide p-1 rounded-md text-white cursor-pointer;
+}
