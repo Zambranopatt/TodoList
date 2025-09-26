@@ -1,10 +1,7 @@
-import Todo from "./components/Todo";
+import React from "react";
+
 const App = () => {
-  return (
-    <section className="h-screen flex justify-center items-center">
-      <Todo />
-    </section>
-  );
+  return <div>App</div>;
 };
 
 export default App;
