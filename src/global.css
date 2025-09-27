@@ -3,3 +3,13 @@
 .btns {
   @apply tracking-wide p-1 rounded-md text-white cursor-pointer;
 }
+.bg {
+  background-image: url("/public/white_bg.png.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+h1,
+p {
+  @apply tracking-wide;
+}
